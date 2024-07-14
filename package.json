@@ -1,0 +1,23 @@
+{
+  "name": "alia_yousuf1student-management-system",
+  "version": "1.0.1",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "bin": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "color": "^4.2.3",
+    "colors": "^1.4.0",
+    "inquirer": "^9.3.5"
+  },
+  "devDependencies": {
+    "@types/color": "^3.0.6",
+    "@types/inquirer": "^9.0.7"
+  }
+}
